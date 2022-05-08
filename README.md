@@ -19,7 +19,7 @@ Ref: https://aws.amazon.com/blogs/big-data/perform-biomedical-informatics-withou
 
 2. Once connected run the queries as mentioned in attached athena_sql/athena_sql. Run each query one after the other.
 
-3. Save the data from last query execution in the "data" folder which will be used in training the model
+3. Save the data from last query execution in the "data" folder which will be used in training the model. Name used in code is "filtered.csv"
 
 #Calculate OASIS Score
 1. Use the model from https://github.com/caisr-hh/Dayly-SAPS-III-and-OASIS-scores-for-MIMIC-III
